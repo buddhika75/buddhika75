@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhika75&show_icons=true&locale=en" alt="buddhika75" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika75&" alt="buddhika75" /></p>
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=buddhika75&theme=xcode" alt="buddhika75's GitHub Activity Graph" /></p>
