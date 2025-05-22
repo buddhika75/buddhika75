@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Hospital Information Management System](https://github.com/hmislk/hmis)
 
 - 👨‍💻 All of my work related projects are available at [[https://github.com/buddhika75](https://github.com/buddhika75)](https://github.com/lk-gov-health-hiu)
-- - 👨‍💻 All of part-time open source projects are available at [[[https://github.com/buddhika75](https://github.com/hmislk/hmis)](https://github.com/buddhika75](https://github.com/hmislk/hmis))](https://github.com/hmislk/hmis)
+- 👨‍💻 All of part-time open source projects are available at [[[https://github.com/buddhika75](https://github.com/hmislk/hmis)](https://github.com/buddhika75](https://github.com/hmislk/hmis))](https://github.com/hmislk/hmis)
 
 - 📫 How to reach me **buddhika.ari@gmail.com**
 
