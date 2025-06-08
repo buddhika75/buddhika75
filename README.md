@@ -1,28 +1,65 @@
-<h1 align="center">Hi 👋, I'm Dr M H B Ariyaratne</h1>
-<h3 align="center">I am a medical doctor who has designed and developed a comprehensive suite of Health Information Systems, which have been utilized around the clock by hundreds of healthcare professionals since 2002.</h3>
+<h1 align="center">Hi 👋, I'm Dr. M. H. B. Ariyaratne</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhika75&label=Profile%20views&color=0e75b6&style=flat" alt="buddhika75" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddhika75" alt="buddhika75" /></a> </p>
-
-- 🔭 I’m currently working on [Hospital Information Management System](https://github.com/hmislk/hmis)
-
-- 👨‍💻 All of my work related projects are available at [https://github.com/lk-gov-health-hiu](https://github.com/lk-gov-health-hiu)
-- 👨‍💻 All of part-time open source projects are available at [https://github.com/hmislk](https://github.com/hmislk)
-
-- 📫 How to reach me **buddhika.ari@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/buddhika75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buddhika75" height="30" width="40" /></a>
+<p align="center">
+  🩺 Consultant in Health Informatics | 🇱🇰 Ministry of Health, Sri Lanka<br>
+  💻 Developer of National Health Information Systems since 2002<br>
+  🧪 Passionate about Digital Health, LIMS, FHIR, and Middleware Integration
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buddhika75&show_icons=true&locale=en&layout=compact" alt="buddhika75" /></p>
+### 🏥 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhika75&show_icons=true&locale=en" alt="buddhika75" /></p>
+I'm a medical doctor and a full-stack JavaEE developer who has been designing and maintaining comprehensive **Health Information Systems (HIS)** for over 20 years. These systems serve as the digital backbone for numerous hospitals and labs across Sri Lanka, helping clinicians deliver better care.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika75&" alt="buddhika75" /></p>
+I lead and contribute to:
+- National **Hospital Information Management Systems (HIMS/HHIMS)**
+- **Laboratory Information Systems (LIMS)** with middleware for analyzer integration
+- HL7/FHIR-based projects, **PACS/RIS**, and digital transformation efforts under the **Health Information Unit** of the Ministry of Health
 
+---
+
+### 🔧 Technologies I Use
+
+- **Backend:** JavaEE · JSF · JPA (EclipseLink) · REST APIs · Payara · Maven
+- **Frontend:** PrimeFaces · Bootstrap · FontAwesome
+- **Database:** MySQL · SQL optimizations · Partitioning
+- **Systems:** Ubuntu · Windows · HL7 Middleware · FHIR Server (HAPI)
+- **Tools:** Git · GitHub · AnyDesk · NetBeans
+
+---
+
+### 📈 Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buddhika75&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika75&layout=compact&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika75&theme=default" />
+</p>
+
+---
+
+### 🚀 My Work
+
+- 🔭 Current Project: [Hospital Information Management System (HIMS)](https://github.com/hmislk/hmis)
+- 🏢 Official Contributions: [MOH Health Information Unit](https://github.com/lk-gov-health-hiu)
+- 💻 Community Projects: [HIMS Open Source](https://github.com/hmislk)
+
+---
+
+### 💬 Reach Out
+
+- 📫 Email: **buddhika.ari@gmail.com**
+- 🐦 Twitter: [@buddhika75](https://twitter.com/buddhika75)
+
+---
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=buddhika75&theme=flat&margin-w=15" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=buddhika75&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
